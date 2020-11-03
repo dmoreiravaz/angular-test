@@ -1,0 +1,33 @@
+.navbar-black {
+    background-color:#2d2b2b;
+}
+
+.navbar-black .navbar-brand,
+.navbar-black .navbar-text {
+    color:#2d2b2b;
+}
+
+.nav-link {
+    color: white;
+}
+
+.banner {
+    position: relative;
+}
+
+.banner-image {
+    width: 100%;
+    height: calc(100vh - 72px);
+}
+
+.banner-title {
+    color: #fdfdfd;
+    left: 50%;
+    position: absolute;
+    text-shadow: 0 4px 4px rgba(0,0,0. 0.75);
+    top: 70%;
+    text-align: left;
+    transform: translate(-50% , -50%);
+    width: 100%;
+
+}
